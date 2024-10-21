@@ -1,1 +1,6 @@
 # resumo-do-lab-4
+No lab que realizei sobre os componentes de arquitetura da Azure, pude explorar diversos aspectos fundamentais da plataforma. A Azure oferece uma ampla gama de serviços, como máquinas virtuais, armazenamento, bancos de dados e redes, permitindo a construção de soluções escaláveis e robustas. Aprendi que a escalabilidade é um dos grandes diferenciais da Azure, com recursos que podem ser ajustados automaticamente conforme a demanda, essencial para aplicações com tráfego variável.
+
+Outro ponto importante foi o entendimento dos modelos de preços, que ajudam a otimizar custos por meio do pagamento conforme o uso. Além disso, a segurança e governança foram temas centrais, com ferramentas como o Azure Security Center, que garantem a proteção de dados e aplicações na nuvem.
+
+Explorei também a integração de serviços, como o uso de Azure Functions para computação sem servidor e Azure Logic Apps para automação de fluxos de trabalho, demonstrando a flexibilidade da plataforma. Por fim, conheci ferramentas de gerenciamento e monitoramento, como o Azure Monitor e o Azure Log Analytics, que são essenciais para acompanhar o desempenho e diagnosticar eventuais problemas nas aplicações. Essa experiência me proporcionou uma visão abrangente da arquitetura da Azure e suas capacidades.
